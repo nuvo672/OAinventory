@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T16:24:14+00:00",
+  "updated": "2026-09-27T16:25:28+00:00",
   "need": [
     {
       "sku": "B00A7GQJB61",
@@ -16,8 +16,8 @@
       "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
       "open_orders": 4,
       "units_needed": 4,
-      "on_hand": 0,
-      "to_buy": 4,
+      "on_hand": 2,
+      "to_buy": 2,
       "est_cost": null,
       "buy_link": ""
     },
@@ -56,7 +56,7 @@
       "asin": "B0GPZ6H2FQ",
       "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
       "units_per_order": 1,
-      "on_hand": 0,
+      "on_hand": 2,
       "unit_cost": null,
       "buy_link": ""
     }
