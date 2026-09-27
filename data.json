@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-27T16:25:28+00:00",
+  "updated": "2026-09-27T16:26:21+00:00",
   "need": [
     {
       "sku": "B00A7GQJB61",
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
       "open_orders": 8,
       "units_needed": 8,
-      "on_hand": 0,
-      "to_buy": 8,
+      "on_hand": 5,
+      "to_buy": 3,
       "est_cost": null,
       "buy_link": ""
     },
@@ -38,7 +38,7 @@
       "asin": "B00A7GQJB6",
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
       "units_per_order": 1,
-      "on_hand": 0,
+      "on_hand": 5,
       "unit_cost": null,
       "buy_link": ""
     },
