@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T13:09:32+00:00",
+  "updated": "2026-09-28T13:11:05+00:00",
   "need": [
     {
       "sku": "B00A7GQJB61",
@@ -12,22 +12,22 @@
       "buy_link": ""
     },
     {
-      "sku": "B0GPZ6H2FQ1",
-      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
-      "open_orders": 6,
-      "units_needed": 6,
-      "on_hand": 2,
-      "to_buy": 4,
-      "est_cost": null,
-      "buy_link": ""
-    },
-    {
       "sku": "226563",
       "product": "Honest Kids Organic Appley Ever After, 6 Fl Oz, 8 Pack",
       "open_orders": 1,
       "units_needed": 1,
       "on_hand": 0,
       "to_buy": 1,
+      "est_cost": null,
+      "buy_link": ""
+    },
+    {
+      "sku": "B0GPZ6H2FQ1",
+      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
+      "open_orders": 6,
+      "units_needed": 6,
+      "on_hand": 7,
+      "to_buy": 0,
       "est_cost": null,
       "buy_link": ""
     }
@@ -56,7 +56,7 @@
       "asin": "B0GPZ6H2FQ",
       "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
       "units_per_order": 1,
-      "on_hand": 2,
+      "on_hand": 7,
       "unit_cost": null,
       "buy_link": ""
     }
