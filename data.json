@@ -1,23 +1,23 @@
 {
-  "updated": "2026-09-28T13:08:59+00:00",
+  "updated": "2026-09-28T13:09:32+00:00",
   "need": [
     {
       "sku": "B00A7GQJB61",
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
-      "open_orders": 8,
-      "units_needed": 8,
+      "open_orders": 10,
+      "units_needed": 10,
       "on_hand": 5,
-      "to_buy": 3,
+      "to_buy": 5,
       "est_cost": null,
       "buy_link": ""
     },
     {
       "sku": "B0GPZ6H2FQ1",
       "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
-      "open_orders": 4,
-      "units_needed": 4,
+      "open_orders": 6,
+      "units_needed": 6,
       "on_hand": 2,
-      "to_buy": 2,
+      "to_buy": 4,
       "est_cost": null,
       "buy_link": ""
     },
@@ -177,6 +177,42 @@
       "qty": 1,
       "order_date": "2026-09-26 19:20",
       "ship_by": "2026-09-29 02:59",
+      "source": "csv"
+    },
+    {
+      "order_id": "…4604",
+      "sku": "B00A7GQJB61",
+      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
+      "qty": 1,
+      "order_date": "2026-09-27 20:45",
+      "ship_by": "2026-09-29 02:59",
+      "source": "csv"
+    },
+    {
+      "order_id": "…4211",
+      "sku": "B00A7GQJB61",
+      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
+      "qty": 1,
+      "order_date": "2026-09-27 22:39",
+      "ship_by": "2026-09-29 02:59",
+      "source": "csv"
+    },
+    {
+      "order_id": "…6265",
+      "sku": "B0GPZ6H2FQ1",
+      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
+      "qty": 1,
+      "order_date": "2026-09-28 01:24",
+      "ship_by": "2026-09-29 02:59",
+      "source": "csv"
+    },
+    {
+      "order_id": "…3451",
+      "sku": "B0GPZ6H2FQ1",
+      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
+      "qty": 1,
+      "order_date": "2026-09-28 07:26",
+      "ship_by": "2026-09-30 02:59",
       "source": "csv"
     }
   ]
