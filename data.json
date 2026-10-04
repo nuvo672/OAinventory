@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:14:04+00:00",
+  "updated": "2026-10-04T22:18:22+00:00",
   "need": [
     {
       "sku": "AUTO-9F5CA8",
@@ -93,7 +93,7 @@
       "source": "csv"
     }
   ],
-  "receipt_url": "",
+  "receipt_url": "https://footing-tropics-chaos.ngrok-free.dev",
   "spend": {
     "people": {
       "Adam": {
