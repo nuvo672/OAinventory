@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T22:26:41+00:00",
+  "updated": "2026-10-04T22:28:03+00:00",
   "need": [
     {
       "sku": "AUTO-9F5CA8",
@@ -97,10 +97,10 @@
   "spend": {
     "people": {
       "Adam": {
-        "week": 0.0,
-        "month": 0.0,
-        "all": 0.0,
-        "count": 0
+        "week": 57.18,
+        "month": 57.18,
+        "all": 57.18,
+        "count": 1
       },
       "Piglet": {
         "week": 0.0,
@@ -109,12 +109,24 @@
         "count": 0
       }
     },
-    "total": 0.0,
-    "settle": null,
+    "total": 57.18,
+    "settle": {
+      "from": "Piglet",
+      "to": "Adam",
+      "amount": 28.59
+    },
     "split": {
       "Adam": 0.5,
       "Piglet": 0.5
     },
-    "recent": []
+    "recent": [
+      {
+        "id": "R-261004-3469",
+        "date": "2026-10-01",
+        "store": "Bath & Body Works",
+        "buyer": "Adam",
+        "total": 57.18
+      }
+    ]
   }
 }
