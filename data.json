@@ -1,40 +1,6 @@
 {
-  "updated": "2026-10-05T20:10:26+00:00",
-  "need": [
-    {
-      "sku": "AUTO-9F5CA8",
-      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
-      "open_orders": 1,
-      "units_needed": 1,
-      "on_hand": 0,
-      "to_buy": 1,
-      "ship_by": "2026-10-05",
-      "est_cost": null,
-      "buy_link": ""
-    },
-    {
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "open_orders": 1,
-      "units_needed": 1,
-      "on_hand": 0,
-      "to_buy": 1,
-      "ship_by": "2026-10-05",
-      "est_cost": null,
-      "buy_link": ""
-    },
-    {
-      "sku": "AUTO-64B05B",
-      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
-      "open_orders": 1,
-      "units_needed": 1,
-      "on_hand": 0,
-      "to_buy": 1,
-      "ship_by": "2026-10-05",
-      "est_cost": null,
-      "buy_link": ""
-    }
-  ],
+  "updated": "2026-10-05T20:10:49+00:00",
+  "need": [],
   "inventory": [
     {
       "sku": "AUTO-9F5CA8",
@@ -64,35 +30,7 @@
       "buy_link": ""
     }
   ],
-  "open_orders": [
-    {
-      "order_id": "…1835",
-      "sku": "AUTO-9F5CA8",
-      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
-      "qty": 1,
-      "order_date": "2026-09-27 15:58",
-      "ship_by": "2026-10-05",
-      "source": "csv"
-    },
-    {
-      "order_id": "…3421",
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "qty": 1,
-      "order_date": "2026-10-03 15:58",
-      "ship_by": "2026-10-05",
-      "source": "csv"
-    },
-    {
-      "order_id": "…1064",
-      "sku": "AUTO-64B05B",
-      "product": "Native Deodorant, Aluminum Free, Sea Salt & Cedar, for Women and Men, Travel Size 0.5oz (Pack of 2)",
-      "qty": 1,
-      "order_date": "2026-10-04 14:58",
-      "ship_by": "2026-10-05",
-      "source": "csv"
-    }
-  ],
+  "open_orders": [],
   "receipt_url": "https://footing-tropics-chaos.ngrok-free.dev",
   "spend": {
     "people": {
