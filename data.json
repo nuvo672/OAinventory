@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T13:03:16+00:00",
+  "updated": "2026-10-05T13:04:38+00:00",
   "need": [
     {
       "sku": "AUTO-9F5CA8",
@@ -97,10 +97,10 @@
   "spend": {
     "people": {
       "Adam": {
-        "week": 0.0,
-        "month": 57.18,
-        "all": 57.18,
-        "count": 1
+        "week": 13.65,
+        "month": 70.83,
+        "all": 70.83,
+        "count": 2
       },
       "Piglet": {
         "week": 0.0,
@@ -109,17 +109,24 @@
         "count": 0
       }
     },
-    "total": 57.18,
+    "total": 70.83,
     "settle": {
       "from": "Piglet",
       "to": "Adam",
-      "amount": 28.59
+      "amount": 35.41
     },
     "split": {
       "Adam": 0.5,
       "Piglet": 0.5
     },
     "recent": [
+      {
+        "id": "R-261005-7930",
+        "date": "2026-10-05",
+        "store": "Target",
+        "buyer": "Adam",
+        "total": 13.65
+      },
       {
         "id": "R-261004-3469",
         "date": "2026-10-01",
