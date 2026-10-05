@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T20:11:07+00:00",
+  "updated": "2026-10-05T20:11:37+00:00",
   "need": [
     {
       "sku": "AUTO-BD1FC7",
@@ -17,8 +17,8 @@
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
       "open_orders": 1,
       "units_needed": 1,
-      "on_hand": 0,
-      "to_buy": 1,
+      "on_hand": 5,
+      "to_buy": 0,
       "ship_by": "2026-10-06",
       "est_cost": null,
       "buy_link": ""
@@ -30,7 +30,7 @@
       "asin": "",
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
       "units_per_order": 1,
-      "on_hand": 0,
+      "on_hand": 5,
       "unit_cost": null,
       "buy_link": ""
     },
