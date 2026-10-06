@@ -1,36 +1,13 @@
 {
-  "updated": "2026-10-06T14:36:12+00:00",
-  "need": [
-    {
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "open_orders": 4,
-      "units_needed": 4,
-      "on_hand": 0,
-      "to_buy": 4,
-      "ship_by": "2026-10-06",
-      "est_cost": null,
-      "buy_link": ""
-    },
-    {
-      "sku": "AUTO-9F5CA8",
-      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
-      "open_orders": 1,
-      "units_needed": 1,
-      "on_hand": 5,
-      "to_buy": 0,
-      "ship_by": "2026-10-06",
-      "est_cost": null,
-      "buy_link": ""
-    }
-  ],
+  "updated": "2026-10-06T16:58:28+00:00",
+  "need": [],
   "inventory": [
     {
       "sku": "AUTO-9F5CA8",
       "asin": "",
       "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
       "units_per_order": 1,
-      "on_hand": 5,
+      "on_hand": 0,
       "unit_cost": null,
       "buy_link": ""
     },
@@ -53,44 +30,7 @@
       "buy_link": ""
     }
   ],
-  "open_orders": [
-    {
-      "order_id": "…5444",
-      "sku": "AUTO-9F5CA8",
-      "product": "Bath & Body Works Ocean for Men Pocketbac - Bundle of 5 - Antibacterial Hand Sanitizer Gel",
-      "qty": 1,
-      "order_date": "2026-10-05 10:11",
-      "ship_by": "2026-10-06",
-      "source": "csv"
-    },
-    {
-      "order_id": "…7467",
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "qty": 1,
-      "order_date": "2026-10-05 15:11",
-      "ship_by": "2026-10-06",
-      "source": "csv"
-    },
-    {
-      "order_id": "…8266",
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "qty": 1,
-      "order_date": "2026-10-05 15:11",
-      "ship_by": "2026-10-06",
-      "source": "csv"
-    },
-    {
-      "order_id": "…9435",
-      "sku": "AUTO-BD1FC7",
-      "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
-      "qty": 2,
-      "order_date": "2026-10-05 15:26",
-      "ship_by": "2026-10-06",
-      "source": "csv"
-    }
-  ],
+  "open_orders": [],
   "receipt_url": "https://footing-tropics-chaos.ngrok-free.dev",
   "spend": {
     "people": {
