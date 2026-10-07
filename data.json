@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-07T12:28:40+00:00",
+  "updated": "2026-10-07T13:38:18+00:00",
   "need": [
     {
       "sku": "AUTO-BD1FC7",
       "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
       "open_orders": 4,
       "units_needed": 4,
-      "on_hand": 0,
-      "to_buy": 4,
+      "on_hand": 6,
+      "to_buy": 0,
       "ship_by": "2026-10-07",
       "est_cost": null,
       "buy_link": ""
@@ -28,8 +28,8 @@
       "asin": "",
       "product": "Native Deodorant, Aluminum Free, Coconut & Vanilla, for Women and Men, Travel Size 0.5oz (0.5 Ounce (Pack of 2)",
       "units_per_order": 1,
-      "on_hand": 0,
-      "unit_cost": null,
+      "on_hand": 6,
+      "unit_cost": 3.29,
       "buy_link": ""
     },
     {
@@ -90,17 +90,17 @@
         "count": 4
       },
       "Piglet": {
-        "week": 0.0,
-        "month": 0.0,
-        "all": 0.0,
-        "count": 0
+        "week": 27.92,
+        "month": 27.92,
+        "all": 27.92,
+        "count": 1
       }
     },
-    "total": 111.77,
+    "total": 139.69,
     "settle": {
       "from": "Piglet",
       "to": "Adam",
-      "amount": 55.88
+      "amount": 41.92
     },
     "split": {
       "Adam": 0.5,
@@ -113,6 +113,13 @@
         "store": "Target",
         "buyer": "Adam",
         "total": 13.65
+      },
+      {
+        "id": "R-261007-C9C7",
+        "date": "2026-10-06",
+        "store": "Target",
+        "buyer": "Piglet",
+        "total": 27.92
       },
       {
         "id": "R-261006-D923",
