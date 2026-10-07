@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T12:27:41+00:00",
+  "updated": "2026-10-07T12:28:40+00:00",
   "need": [
     {
       "sku": "AUTO-BD1FC7",
@@ -84,10 +84,10 @@
   "spend": {
     "people": {
       "Adam": {
-        "week": 40.94,
-        "month": 98.12,
-        "all": 98.12,
-        "count": 3
+        "week": 54.59,
+        "month": 111.77,
+        "all": 111.77,
+        "count": 4
       },
       "Piglet": {
         "week": 0.0,
@@ -96,17 +96,24 @@
         "count": 0
       }
     },
-    "total": 98.12,
+    "total": 111.77,
     "settle": {
       "from": "Piglet",
       "to": "Adam",
-      "amount": 49.06
+      "amount": 55.88
     },
     "split": {
       "Adam": 0.5,
       "Piglet": 0.5
     },
     "recent": [
+      {
+        "id": "R-261007-9B43",
+        "date": "2026-10-07",
+        "store": "Target",
+        "buyer": "Adam",
+        "total": 13.65
+      },
       {
         "id": "R-261006-D923",
         "date": "2026-10-06",
