@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-09T17:37:18+00:00",
+  "updated": "2026-10-18T20:52:53+00:00",
   "need": [
     {
       "sku": "AUTO-BD1FC7",
@@ -84,13 +84,13 @@
   "spend": {
     "people": {
       "Adam": {
-        "week": 64.07,
+        "week": 0.0,
         "month": 121.25,
         "all": 121.25,
         "count": 5
       },
       "Piglet": {
-        "week": 41.57,
+        "week": 0.0,
         "month": 79.64,
         "all": 79.64,
         "count": 3
